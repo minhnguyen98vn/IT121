@@ -1,1 +1,24 @@
+img {
+  max-width: 100%;
+}
 
+html {
+  background-color: lightgray;
+}
+body {
+  color: #000;
+  background-color: #181a21;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6em;
+}
+body>.wrapper {
+  display: block;
+  width: 90%;
+  margin: auto;
+  max-width: 1600px;
+}
+h1 {
+  font-size: 82px;
+  font-weight: 700;
+  line-height: 120%;
+}
